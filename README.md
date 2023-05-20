@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelle</h1>
 <h3 align="center">A full-stack dev who likes to tackle complex problems and her cat Lou!</h3>
 
-- 🔭 I’m currently working on **Cave-a-Vin**
+- 🔭 I’m currently working on **What's For Dinner?**
 
 - 🌱 I’m currently learning **Typescript and Flask**
 
