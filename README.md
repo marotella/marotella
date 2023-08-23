@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michelle</h1>
 <h3 align="center">A full-stack dev who likes to tackle complex problems in order to make hard work easier!</h3>
 
-- 🔭 I’m currently working on **Forage for JP Morgan**
+- 🔭 I’m currently working on **Data Literacy** a project that supports usesrs in making data driven decisions for developing readers.
 
-- 🌱 I’m currently learning **Typescript and Flask**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **React, Python**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-KgLzg89lDFcOuRE9jslrFAkGRgiDYeqHjFaCzhHjfA/edit](https://docs.google.com/document/d/1-KgLzg89lDFcOuRE9jslrFAkGRgiDYeqHjFaCzhHjfA/edit)
 
-- ⚡ Fun fact **I am an avid fiction reader and love spending time with Lou, my cat.**
+- ⚡ Fun fact **I am an avid fiction reader, travel enthusiast, and love spending time my cat, Lou.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
