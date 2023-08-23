@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Literacy** a project that supports usesrs in making data driven decisions for developing readers.
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask and Typescript**
 
 - 💬 Ask me about **React, Python**
 
