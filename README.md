@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **michelle.a.rotella@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-KgLzg89lDFcOuRE9jslrFAkGRgiDYeqHjFaCzhHjfA/edit](https://docs.google.com/document/d/1-KgLzg89lDFcOuRE9jslrFAkGRgiDYeqHjFaCzhHjfA/edit)
+- 📄 Know about my experiences by checking out my <a href="https://docs.google.com/document/d/1xJx0dBKy4nm_sPwrRPwcQHCM27CIXPZSCzqZARdEksY/edit" target="_blank">Resume</a>
 
 - ⚡ Fun fact **I am an avid fiction reader, travel enthusiast, and love spending time my cat, Lou.**
 
