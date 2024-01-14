@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michelle</h1>
 <h3 align="center">A full-stack dev who likes to tackle complex problems in order to make hard work easier!</h3>
 
-- 🔭 I’m currently working on **Data Literacy** a project that supports usesrs in making data driven decisions for developing readers.
+- 🔭 I’m currently working on optimizing a Google API integration using Node.js for Academic Atlas to automate stock image selection for pre-college programs.
 
 - 🌱 I’m currently learning **Flask and Cybersecurity Fundamentals**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React, Python, JavaScript**
 
 - 📫 How to reach me **michelle.a.rotella@gmail.com**
 
